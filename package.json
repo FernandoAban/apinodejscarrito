@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoAban/apinodejscarrito.git"
+  },
+  "author": "Fernando Abraham Aban Chi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoAban/apinodejscarrito/issues"
+  },
+  "homepage": "https://github.com/FernandoAban/apinodejscarrito#readme"
+}
